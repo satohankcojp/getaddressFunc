@@ -847,6 +847,9 @@
           }
         }
       },
+      "System.ServiceModel.Web/1.0.0": {
+        "type": "package"
+      },
       "System.Spatial/5.6.4": {
         "type": "package",
         "compile": {
@@ -3488,6 +3491,17 @@
         "system.security.cryptography.x509certificates.nuspec"
       ]
     },
+    "System.ServiceModel.Web/1.0.0": {
+      "sha512": "8RbqIHCWiFyuOiMksjDOJ32dFWrmu/Ma2l7yF+Xx6eY3L95Si260WlIAmtY1GZ5bgyg9tDC1R83lhLT4gKMbEw==",
+      "type": "package",
+      "path": "system.servicemodel.web/1.0.0",
+      "files": [
+        "NuGet.exe",
+        "System.ServiceModel.Web.dll",
+        "system.servicemodel.web.1.0.0.nupkg.sha512",
+        "system.servicemodel.web.nuspec"
+      ]
+    },
     "System.Spatial/5.6.4": {
       "sha512": "BoXUQ0mHyeAbkR3qlhwXqUFxzJ7rZuFOrvFM/jZRk+S6JLI2JxXRKby6bxuWbmwYv2o/eRPQPbAOvEk5hB2Gmg==",
       "type": "package",
@@ -4174,6 +4188,7 @@
       "Microsoft.Azure.WebJobs.Extensions.Http >= 1.0.0-beta1",
       "Microsoft.NET.Sdk.Functions >= 1.0.0-alpha6",
       "System.Runtime.Serialization.Json >= 4.3.0",
+      "System.ServiceModel.Web >= 1.0.0",
       "Vse.Web.Serialization.ControlledSerializationJsonConverter >= 1.0.4"
     ]
   },
@@ -4211,6 +4226,10 @@
           "System.Runtime.Serialization.Json": {
             "target": "Package",
             "version": "4.3.0"
+          },
+          "System.ServiceModel.Web": {
+            "target": "Package",
+            "version": "1.0.0"
           },
           "Microsoft.Azure.WebJobs": {
             "target": "Package",
