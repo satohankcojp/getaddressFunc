@@ -50,3 +50,4 @@ C:\cygwin64\home\a-hisato\github\getaddressFunc\obj\Debug\net461\getaddressfromz
 C:\cygwin64\home\a-hisato\github\getaddressFunc\obj\Debug\net461\getaddressfromzipcode.dll
 C:\cygwin64\home\a-hisato\github\getaddressFunc\obj\Debug\net461\getaddressfromzipcode.pdb
 C:\cygwin64\home\a-hisato\github\getaddressFunc\bin\Debug\net461\Vse.Web.Serialization.dll
+C:\cygwin64\home\a-hisato\github\getaddressFunc\obj\Debug\net461\getaddressfromzipcode.csprojResolveAssemblyReference.cache
