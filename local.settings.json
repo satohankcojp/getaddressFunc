@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Value": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "GitHub",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "11.0.611103.400",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=ahisatologs;AccountKey=wdizx3oUPM4iT8VPx7gV8tsv9QRA/vnWUxZNsDICrNOOTGm+Xfxu5WElmcfBpCY/NhfQ4Q5KN7H865W0W8dEgA==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=ahisatologs;AccountKey=wdizx3oUPM4iT8VPx7gV8tsv9QRA/vnWUxZNsDICrNOOTGm+Xfxu5WElmcfBpCY/NhfQ4Q5KN7H865W0W8dEgA==",
+    "WEBSITE_CONTENTSHARE": "getaddressfromzipcodea16f",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "WEBSITE_SITE_NAME": "getaddressfromzipcode",
+    "WEBSITE_SLOT_NAME": "Production",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ahisatologs;AccountKey=wdizx3oUPM4iT8VPx7gV8tsv9QRA/vnWUxZNsDICrNOOTGm+Xfxu5WElmcfBpCY/NhfQ4Q5KN7H865W0W8dEgA=="
+  }
+}
